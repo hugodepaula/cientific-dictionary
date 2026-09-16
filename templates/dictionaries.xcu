@@ -1,26 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE oor:component-schema PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "component-schema.dtd">
-<oor:component-schema xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <templates>
-    <node oor:name="HunSpellDic_pt_BR_Cientifico">
-      <prop oor:name="Locations" oor:type="oor:string-list">
-        <item oor:path="pt_BR_cientifico_ia.dic"/>
-        <item oor:path="pt_BR_cientifico_ia.aff"/>
-      </prop>
-      <prop oor:name="Format" oor:type="xs:int">0</prop>
-      <prop oor:name="Locales" oor:type="oor:string-list">
-        <item oor:path="pt-BR"/>
-      </prop>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry" xmlns:xs="http://www.w3.org/2001/XMLSchema" oor:name="Linguistic" oor:package="org.openoffice.Office">
+    <node oor:name="ServiceManager">
+        <node oor:name="Dictionaries">
+            <node oor:name="HunSpellDic_pt_BR_Scientific" oor:op="fuse">
+                <prop oor:name="Locations" oor:type="oor:string-list">
+                    <value>%origin%/pt_BR_scientific.aff %origin%/pt_BR_scientific.dic</value>
+                </prop>
+                <prop oor:name="Format" oor:type="xs:string">
+                    <value>DICT_SPELL</value>
+                </prop>
+                <prop oor:name="Locales" oor:type="oor:string-list">
+                    <value>pt-BR</value>
+                </prop>
+            </node>
+            <node oor:name="HunSpellDic_en_US_Scientific" oor:op="fuse">
+                <prop oor:name="Locations" oor:type="oor:string-list">
+                    <value>%origin%/en_US_scientific.aff %origin%/en_US_scientific.dic</value>
+                </prop>
+                <prop oor:name="Format" oor:type="xs:string">
+                    <value>DICT_SPELL</value>
+                </prop>
+                <prop oor:name="Locales" oor:type="oor:string-list">
+                    <value>en-US</value>
+                </prop>
+            </node>
+        </node>
     </node>
-    <node oor:name="HunSpellDic_en_US_Scientific">
-      <prop oor:name="Locations" oor:type="oor:string-list">
-        <item oor:path="en_US_scientific_ai.dic"/>
-        <item oor:path="en_US_scientific_ai.aff"/>
-      </prop>
-      <prop oor:name="Format" oor:type="xs:int">0</prop>
-      <prop oor:name="Locales" oor:type="oor:string-list">
-        <item oor:path="en-US"/>
-      </prop>
-    </node>
-  </templates>
-</oor:component-schema>
+</oor:component-data>

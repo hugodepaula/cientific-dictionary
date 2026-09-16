@@ -1,0 +1,608 @@
+anatomy
+physiology
+pathology
+pharmacology
+epidemiology
+etiology
+diagnosis
+therapeutics
+prophylaxis
+immunology
+microbiology
+virology
+parasitology
+genetics
+oncology
+cardiology
+neurology
+psychiatry
+pediatrics
+geriatrics
+obstetrics
+gynecology
+ophthalmology
+dermatology
+orthopedics
+urology
+nephrology
+gastroenterology
+endocrinology
+hematology
+rheumatology
+pulmonology
+infectious diseases
+public health
+sanitation
+toxicology
+radiology
+biochemistry
+biophysics
+biostatistics
+bioethics
+biosafety
+biotechnology
+genomics
+proteomics
+metabolomics
+transcriptomics
+microbiome
+resistome
+zoonosis
+vector
+host
+pathogen
+antigen
+antibody
+vaccine
+serum
+antibiotic
+antiviral
+antifungal
+chemotherapeutic
+placebo
+clinical trial
+randomized
+double-blind
+cohort
+case-control
+cross-sectional
+meta-analysis
+systematic review
+odds ratio
+relative risk
+incidence
+prevalence
+morbidity
+mortality
+lethality
+survival
+prognosis
+pathophysiology
+semiology
+anamnesis
+physical examination
+diagnostic hypothesis
+therapeutic management
+evolution
+discharge
+death
+necropsy
+histopathology
+cytopathology
+immunohistochemistry
+molecular biology
+pcr
+sequencing
+crispr
+cloning
+transgenic
+knockout
+transcription
+translation
+replication
+mutation
+polymorphism
+epigenetics
+apoptosis
+necrosis
+autophagy
+cell signaling
+receptor
+ligand
+enzyme
+substrate
+inhibitor
+agonist
+antagonist
+pharmacokinetics
+pharmacodynamics
+bioavailability
+half-life
+clearance
+distribution
+metabolism
+excretion
+toxicity
+adverse effect
+drug interaction
+contraindication
+precaution
+posology
+route of administration
+pharmaceutical form
+active ingredient
+excipient
+vehicle
+stabilizer
+preservative
+cysticercosis
+schistosomiasis
+neurocysticercosis
+taenia solium
+schistosoma mansoni
+leishmania braziliensis
+plasmodium falciparum
+ascaris lumbricoides
+enterobius vermicularis
+strongyloides stercoralis
+hookworm infection
+filariasis
+leptospirosis
+leprosy
+tuberculosis
+malaria
+dengue
+zika
+chikungunya
+yellow fever
+rabies
+tetanus
+botulism
+gangrene
+sepsis
+septic shock
+renal failure
+hepatic failure
+heart failure
+acute myocardial infarction
+stroke
+thrombosis
+embolism
+varicose veins
+hemorrhoids
+peptic ulcer
+gastritis
+hepatitis
+cirrhosis
+choledocholithiasis
+pancreatitis
+appendicitis
+diverticulitis
+hernia
+intestinal obstruction
+inflammatory bowel disease
+crohn's disease
+ulcerative colitis
+irritable bowel syndrome
+constipation
+diarrhea
+dyspepsia
+nausea
+vomiting
+hematemesis
+melena
+jaundice
+ascites
+splenomegaly
+hepatomegaly
+cholelithiasis
+nephrolithiasis
+kidney stone
+urinary tract infection
+pyelonephritis
+glomerulonephritis
+nephrotic syndrome
+nephritic syndrome
+proteinuria
+hematuria
+leukocyturia
+bacteriuria
+urethritis
+cystitis
+prostatitis
+orchitis
+epididymitis
+hydrocele
+varicocele
+phimosis
+paraphimosis
+cryptorchidism
+hypospadias
+epispadias
+prostate cancer
+bladder cancer
+kidney cancer
+testicular cancer
+penile cancer
+male infertility
+erectile dysfunction
+premature ejaculation
+menopause
+andropause
+osteoporosis
+arthritis
+arthrosis
+lupus
+fibromyalgia
+sjogren's syndrome
+scleroderma
+polymyositis
+dermatomyositis
+vasculitis
+gout
+pseudogout
+chondrocalcinosis
+bursitis
+tendinitis
+tenosynovitis
+carpal tunnel syndrome
+epicondylitis
+frozen shoulder
+kyphosis
+scoliosis
+lordosis
+spondylitis
+spondylosis
+herniated disc
+sciatica
+low back pain
+neck pain
+chest pain
+fracture
+dislocation
+sprain
+strain
+contusion
+wound
+burn
+frostbite
+insect bite
+venomous animal bite
+poisoning
+intoxication
+overdose
+allergy
+anaphylaxis
+urticaria
+angioedema
+eczema
+dermatitis
+psoriasis
+acne
+rosacea
+vitiligo
+melasma
+alopecia
+hirsutism
+onychomycosis
+tinea
+impetigo
+cellulitis
+abscess
+furuncle
+carbuncle
+erysipelas
+necrotizing fasciitis
+myositis
+rhabdomyolysis
+compartment syndrome
+pressure ulcer
+venous ulcer
+arterial ulcer
+diabetic ulcer
+diabetic foot
+diabetic gangrene
+diabetic retinopathy
+diabetic neuropathy
+diabetic nephropathy
+type 1 diabetes
+type 2 diabetes
+gestational diabetes
+prediabetes
+hypoglycemia
+hyperglycemia
+diabetic ketoacidosis
+hyperosmolar state
+obesity
+overweight
+malnutrition
+cachexia
+anorexia
+bulimia
+eating disorder
+vitamin deficiency
+mineral deficiency
+anemia
+iron deficiency anemia
+megaloblastic anemia
+sickle cell anemia
+thalassemia
+hemophilia
+von willebrand disease
+thrombocytopenia
+thrombocytosis
+leukopenia
+leukocytosis
+neutropenia
+eosinophilia
+lymphocytosis
+monocytosis
+polycythemia
+lymphoma
+leukemia
+multiple myeloma
+myelodysplastic syndrome
+myeloproliferative disorder
+splenomegaly
+adenopathy
+lymphadenopathy
+thymomegaly
+immunodeficiency
+aids
+hiv
+acquired immunodeficiency syndrome
+opportunistic infection
+pneumocystis pneumonia
+cerebral toxoplasmosis
+esophageal candidiasis
+kaposi's sarcoma
+non-hodgkin lymphoma
+extrapulmonary tuberculosis
+mycobacteriosis
+cytomegalovirus infection
+herpes virus infection
+viral hepatitis
+hepatitis a
+hepatitis b
+hepatitis c
+hepatitis d
+hepatitis e
+liver cirrhosis
+alcoholic hepatitis
+hepatic steatosis
+hepatic fibrosis
+portal hypertension
+esophageal varices
+hepatic encephalopathy
+hepatorenal syndrome
+liver cancer
+hepatic adenoma
+hepatic hemangioma
+choledocholithiasis
+cholangitis
+cholangiocarcinoma
+gallbladder cancer
+gallbladder polyp
+acute cholecystitis
+chronic cholecystitis
+choledocholithiasis
+acute pancreatitis
+chronic pancreatitis
+pancreatic cancer
+pancreatic cyst
+pancreatic pseudocyst
+exocrine pancreatic insufficiency
+pancreatogenic diabetes
+acute gastritis
+chronic gastritis
+gastric ulcer
+duodenal ulcer
+gastroesophageal reflux disease
+esophagitis
+barrett's esophagus
+esophageal stricture
+achalasia
+esophageal diverticulum
+mallory-weiss syndrome
+esophageal varices
+esophageal cancer
+stomach cancer
+gastric lymphoma
+gastroparesis
+dumping syndrome
+short bowel syndrome
+malabsorption
+celiac disease
+lactose intolerance
+food allergy
+enteritis
+colitis
+proctitis
+acute appendicitis
+diverticulosis
+diverticulitis
+diverticular disease
+intestinal obstruction
+paralytic ileus
+volvulus
+intussusception
+inguinal hernia
+femoral hernia
+umbilical hernia
+incisional hernia
+hiatal hernia
+colorectal cancer
+colonic polyp
+lynch syndrome
+familial adenomatous polyposis
+irritable bowel syndrome
+chronic constipation
+chronic diarrhea
+fecal incontinence
+anal fissure
+anal fistula
+perianal abscess
+hemorrhoids
+anal pruritus
+rectal prolapse
+anal cancer
+helminthiasis
+ascariasis
+hookworm infection
+enterobiasis
+strongyloidiasis
+trichuriasis
+taeniasis
+cysticercosis
+echinococcosis
+hymenolepiasis
+diphyllobothriasis
+schistosomiasis
+fascioliasis
+clonorchiasis
+opisthorchiasis
+paragonimiasis
+fasciolopsiasis
+giardiasis
+amebiasis
+balantidiasis
+trichomoniasis
+visceral leishmaniasis
+cutaneous leishmaniasis
+chagas disease
+malaria
+babesiosis
+theileriosis
+african trypanosomiasis
+toxoplasmosis
+cryptosporidiosis
+isosporiasis
+cyclosporiasis
+sarcocystosis
+microsporidiosis
+pneumocystosis
+candidiasis
+aspergillosis
+cryptococcosis
+zygomycosis
+fusariosis
+scopulariopsosis
+dematiaceous fungi
+paracoccidioidomycosis
+histoplasmosis
+blastomycosis
+coccidioidomycosis
+sporotrichosis
+chromoblastomycosis
+mycetoma
+penicilliosis
+geotrichosis
+trichosporonosis
+malasseziasis
+pityriasis versicolor
+tinea corporis
+tinea capitis
+tinea pedis
+tinea unguium
+tinea manuum
+tinea cruris
+tinea barbae
+favus
+pitted keratolysis
+erythrasma
+white piedra
+black piedra
+onychomycosis
+otomycosis
+fungal rhinosinusitis
+aspergilloma
+pulmonary mycetoma
+fungal pneumonia
+fungemia
+fungal endocarditis
+fungal peritonitis
+catheter infection
+prosthetic infection
+surgical wound infection
+surgical site infection
+nosocomial infection
+healthcare-associated infection
+bloodstream infection
+urinary tract infection
+respiratory tract infection
+central nervous system infection
+skin and soft tissue infection
+bone infection
+joint infection
+ocular infection
+auditory infection
+oral infection
+gastrointestinal infection
+genital infection
+maternal-fetal infection
+congenital infection
+neonatal infection
+pediatric infection
+geriatric infection
+infection in immunocompromised
+infection in transplant recipients
+infection in cancer patients
+infection in diabetics
+infection in burn victims
+infection in trauma patients
+infection in drug users
+infection in healthcare workers
+infection in travelers
+emerging infection
+reemerging infection
+neglected infection
+tropical disease
+endemic disease
+epidemic disease
+pandemic disease
+eradicated disease
+controlled disease
+epidemiological surveillance
+compulsory notification
+epidemiological investigation
+vaccine blockade
+chemoprophylaxis
+isolation
+quarantine
+social distancing
+hand hygiene
+mask wearing
+respiratory etiquette
+cleaning
+disinfection
+sterilization
+protection barriers
+personal protective equipment
+collective protection equipment
+biosafety
+waste management
+biological material accident
+occupational exposure
+worker's health
+ergonomics
+occupational risk
+occupational disease
+work accident
+absenteeism
+presenteeism
+burnout
+occupational stress
+professional exhaustion syndrome
+moral harassment
+sexual harassment
+workplace violence
+commuting accident
+work-related illness
+causal link
+accident stability
+sickness benefit
+disability retirement
+vocational rehabilitation
+functional readaptation
+return to work
+leave from work

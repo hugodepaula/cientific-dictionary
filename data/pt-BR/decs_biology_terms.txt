@@ -1,0 +1,609 @@
+anatomia
+fisiologia
+patologia
+farmacologia
+epidemiologia
+etiologia
+diagnóstico
+terapêutica
+profilaxia
+imunologia
+microbiologia
+virologia
+parasitologia
+genética
+oncologia
+cardiologia
+neurologia
+psiquiatria
+pediatria
+geriatria
+obstetrícia
+ginecologia
+oftalmologia
+dermatologia
+ortopedia
+urologia
+nefrologia
+gastroenterologia
+endocrinologia
+hematologia
+reumatologia
+pneumologia
+infectologia
+saúde pública
+saneamento
+toxicologia
+radiologia
+bioquímica
+biofísica
+bioestatística
+bioética
+biossegurança
+biotecnologia
+genômica
+proteômica
+metabolômica
+transcriptômica
+microbioma
+resistoma
+zoonose
+vetor
+hospedeiro
+patógeno
+antígeno
+anticorpo
+vacina
+soro
+antibiótico
+antiviral
+antifúngico
+quimioterápico
+placebo
+ensaio clínico
+randomizado
+duplo-cego
+coorte
+caso-controle
+transversal
+metanálise
+revisão sistemática
+odds ratio
+risco relativo
+incidência
+prevalência
+morbidade
+mortalidade
+letalidade
+sobrevivência
+prognóstico
+fisiopatologia
+semiologia
+anamnese
+exame físico
+hipótese diagnóstica
+conduta terapêutica
+evolução
+alta
+óbito
+necropsia
+histopatologia
+citopatologia
+imuno-histoquímica
+biologia molecular
+pcr
+sequenciamento
+crispr
+clonagem
+transgênico
+knockout
+transcrição
+tradução
+replicação
+mutação
+polimorfismo
+epigenética
+apoptose
+necrose
+autofagia
+sinalização celular
+receptor
+ligante
+enzima
+substrato
+inibidor
+agonista
+antagonista
+farmacocinética
+farmacodinâmica
+biodisponibilidade
+meia-vida
+clearance
+distribuição
+metabolismo
+excreção
+toxicidade
+efeito adverso
+interação medicamentosa
+contraindicação
+precaução
+posologia
+via de administração
+forma farmacêutica
+princípio ativo
+excipiente
+veículo
+estabilizante
+conservante
+cisticercose
+esquistossomose
+neurocisticercose
+taenia solium
+schistosoma mansoni
+leishmania braziliensis
+plasmodium falciparum
+ascarís lumbricoides
+enterobius vermicularis
+strongyloides stercoralis
+ancilostomíase
+filariose
+leptospirose
+hanseníase
+tuberculose
+malária
+dengue
+zika
+chikungunya
+febre amarela
+raiva
+tétano
+botulismo
+gangrena
+sepse
+choque séptico
+insuficiência renal
+insuficiência hepática
+insuficiência cardíaca
+infarto agudo do miocárdio
+acidente vascular cerebral
+trombose
+embolia
+varizes
+hemorroida
+úlcera péptica
+gastrite
+hepatite
+cirrose
+coledocolitíase
+pancreatite
+apendicite
+diverticulite
+hérnia
+obstrução intestinal
+doença inflamatória intestinal
+doença de crohn
+retocolite ulcerativa
+síndrome do intestino irritável
+constipação
+diarreia
+dispepsia
+náusea
+vômito
+hematêmese
+melena
+icterícia
+ascite
+esplenomegalia
+hepatomegalia
+colelitíase
+nefrolitíase
+cálculo renal
+infecção urinária
+pielonefrite
+glomerulonefrite
+síndrome nefrótica
+síndrome nefrítica
+proteinúria
+hematúria
+leucocitúria
+bacteriúria
+uretrite
+cistite
+prostatite
+orquite
+epididimite
+hidrocele
+varicocele
+fimose
+parafimose
+criptorquidia
+hipospádia
+epispádia
+câncer de próstata
+câncer de bexiga
+câncer de rim
+câncer de testículo
+câncer de pênis
+infertilidade masculina
+disfunção erétil
+ejaculação precoce
+menopausa
+andropausa
+osteoporose
+artrite
+artrose
+lúpus
+fibromialgia
+síndrome de sjogren
+esclerodermia
+polimiosite
+dermatomiosite
+vasculite
+gota
+pseudogota
+condrocalcinose
+bursite
+tendinite
+tenossinovite
+síndrome do túnel do carpo
+epicondilite
+ombro congelado
+cifose
+escoliose
+lordose
+espondilite
+espondilose
+hérnia de disco
+ciatalgia
+lombalgia
+cervicalgia
+dor torácica
+fratura
+luxação
+entorse
+distensão
+contusão
+ferimento
+queimadura
+congelação
+picada de inseto
+picada de animal peçonhento
+envenenamento
+intoxicação
+overdose
+alergia
+anafilaxia
+urticária
+angioedema
+eczema
+dermatite
+psoríase
+acne
+rosácea
+vitiligo
+melasma
+alopecia
+hirsutismo
+onicomicose
+tinha
+impetigo
+celulite infecciosa
+abscesso
+furúnculo
+carbúnculo
+erisipela
+fasciíte necrosante
+miosite
+rabdomiólise
+síndrome compartimental
+úlcera de pressão
+úlcera venosa
+úlcera arterial
+úlcera diabética
+pé diabético
+gangrena diabética
+retinopatia diabética
+neuropatia diabética
+nefropatia diabética
+diabetes tipo 1
+diabetes tipo 2
+diabetes gestacional
+pré-diabetes
+hipoglicemia
+hiperglicemia
+cetoacidose diabética
+estado hiperosmolar
+obesidade
+sobrepeso
+desnutrição
+caquexia
+anorexia
+bulimia
+transtorno alimentar
+deficiência de vitamina
+deficiência de mineral
+anemia
+anemia ferropriva
+anemia megaloblástica
+anemia falciforme
+talassemia
+hemofilia
+doença de von willebrand
+trombocitopenia
+trombocitose
+leucopenia
+leucocitose
+neutropenia
+eosinofilia
+linfocitose
+monocitose
+policitemia
+linfoma
+leucemia
+mieloma múltiplo
+síndrome mielodisplásica
+transtorno mieloproliferativo
+esplenomegalia
+adenopatia
+linfadenopatia
+timomegalia
+imunodeficiência
+aids
+hiv
+síndrome de imunodeficiência adquirida
+infecção oportunista
+pneumonia por pneumocystis
+toxoplasmose cerebral
+criptococose
+candidíase esofágica
+sarcoma de kaposi
+linfoma não hodgkin
+tuberculose extrapulmonar
+micobacteriose
+infecção por citomegalovírus
+infecção por herpes vírus
+hepatite viral
+hepatite a
+hepatite b
+hepatite c
+hepatite d
+hepatite e
+cirrose hepática
+hepatite alcoólica
+esteatose hepática
+fibrose hepática
+hipertensão portal
+varizes esofágicas
+encefalopatia hepática
+síndrome hepatorrenal
+câncer de fígado
+adenoma hepático
+hemangioma hepático
+coledocolitíase
+colangite
+colangiocarcinoma
+câncer de vesícula biliar
+pólipo de vesícula
+colecistite aguda
+colecistite crônica
+coledocolitíase
+pancreatite aguda
+pancreatite crônica
+câncer de pâncreas
+cisto pancreático
+pseudocisto pancreático
+insuficiência pancreática exócrina
+diabetes pancreatogênico
+gastrite aguda
+gastrite crônica
+úlcera gástrica
+úlcera duodenal
+doença do refluxo gastroesofágico
+esofagite
+esôfago de barrett
+estenose esofágica
+acalasia
+divertículo esofágico
+síndrome de mallory-weiss
+varizes esofágicas
+câncer de esôfago
+câncer de estômago
+linfoma gástrico
+gastroparesia
+síndrome de dumping
+síndrome do intestino curto
+má absorção
+doença celíaca
+intolerância à lactose
+alergia alimentar
+enterite
+colite
+proctite
+apendicite aguda
+diverticulose
+diverticulite
+doença diverticular
+obstrução intestinal
+íleo paralítico
+vólvulo
+intussuscepção
+hérnia inguinal
+hérnia femoral
+hérnia umbilical
+hérnia incisional
+hérnia hiatal
+câncer colorretal
+pólipo colônico
+síndrome de lynch
+polipose adenomatosa familiar
+síndrome do intestino irritável
+constipação crônica
+diarreia crônica
+incontinência fecal
+fissura anal
+fístula anal
+abscesso perianal
+hemorroidas
+prurido anal
+prolapso retal
+câncer de ânus
+verminose
+ascaridíase
+ancilostomíase
+enterobíase
+strongiloidíase
+tricuríase
+teníase
+cisticercose
+equinococose
+himenolepíase
+difilobotríase
+esquistossomose
+fasciolíase
+clonorquíase
+opistorquíase
+paragonimíase
+fasciolopsíase
+giardíase
+amebíase
+balantidíase
+tricomoníase
+leishmaniose visceral
+leishmaniose tegumentar
+doença de chagas
+malária
+babesiose
+teileriose
+tripanossomíase africana
+toxoplasmose
+criptosporidiose
+isosporíase
+ciclosporíase
+sarcocistose
+microsporidiose
+pneumocistose
+candidíase
+aspergilose
+criptococose
+zigomicose
+fusariose
+escopulariopsose
+dematiáceos
+paracoccidioidomicose
+histoplasmose
+blastomicose
+coccidioidomicose
+esporotricose
+cromoblastomicose
+micetoma
+peniciliose
+geotricose
+tricosporonose
+malassezíase
+pitiríase versicolor
+tinha corporis
+tinha capitis
+tinha pedis
+tinha unguium
+tinha manuum
+tinha cruris
+tinha barbae
+favus
+queriólise pontuada
+eritrasma
+piedra branca
+piedra negra
+onicomicose
+otomicose
+rinossinusite fúngica
+aspergiloma
+micetoma pulmonar
+pneumonia fúngica
+fungemia
+endocardite fúngica
+peritonite fúngica
+infecção de cateter
+infecção de prótese
+infecção de ferida cirúrgica
+infecção de sítio cirúrgico
+infecção hospitalar
+infecção relacionada à assistência à saúde
+infecção da corrente sanguínea
+infecção do trato urinário
+infecção do trato respiratório
+infecção do sistema nervoso central
+infecção da pele e partes moles
+infecção óssea
+infecção articular
+infecção ocular
+infecção auditiva
+infecção oral
+infecção gastrointestinal
+infecção genital
+infecção materno-fetal
+infecção congênita
+infecção neonatal
+infecção pediátrica
+infecção geriátrica
+infecção em imunossuprimidos
+infecção em transplantados
+infecção em oncológicos
+infecção em diabéticos
+infecção em queimados
+infecção em traumatizados
+infecção em usuários de drogas
+infecção em profissionais de saúde
+infecção em viajantes
+infecção emergente
+infecção reemergente
+infecção negligenciada
+doença tropical
+doença endêmica
+doença epidêmica
+doença pandêmica
+doença erradicada
+doença controlada
+vigilância epidemiológica
+notificação compulsória
+investigação epidemiológica
+bloqueio vacinal
+quimioprofilaxia
+isolamento
+quarentena
+distanciamento social
+higienização das mãos
+uso de máscaras
+etiqueta respiratória
+limpeza
+desinfecção
+esterilização
+barreiras de proteção
+equipamento de proteção individual
+equipamento de proteção coletiva
+biossegurança
+gerenciamento de resíduos
+acidente com material biológico
+exposição ocupacional
+saúde do trabalhador
+ergonomia
+risco ocupacional
+doença ocupacional
+acidente de trabalho
+absenteísmo
+presenteísmo
+burnout
+estresse ocupacional
+síndrome do esgotamento profissional
+assédio moral
+assédio sexual
+violência no trabalho
+acidente de trajeto
+doença relacionada ao trabalho
+nexo causal
+estabilidade acidentária
+auxílio-doença
+aposentadoria por invalidez
+reabilitação profissional
+readaptação funcional
+retorno ao trabalho
+afastamento do trabalho
