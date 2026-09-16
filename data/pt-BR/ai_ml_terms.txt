@@ -1,0 +1,68 @@
+inteligência artificial
+aprendizado de máquina
+machine learning
+deep learning
+rede neural
+backpropagation
+dataset
+datasets
+embedding
+embeddings
+epoch
+epochs
+fine-tuning
+hallucination
+alucinação
+inferência
+token
+tokens
+tokenização
+transformer
+transformers
+overfitting
+underfitting
+bias
+viés
+prompt
+prompts
+llm
+llms
+modelo de linguagem
+pesos
+dropout
+batch
+minibatch
+stochastic
+gradiente
+otimizador
+adam
+sgd
+pipeline
+pipelines
+deploy
+latência
+throughput
+api
+apis
+webhook
+json
+yaml
+vector
+vetorização
+rag
+retrieval
+generation
+chain
+chains
+agent
+agents
+autônomo
+pré-treinado
+pretrained
+zero-shot
+few-shot
+chain-of-thought
+logits
+ablação
+latent space
+hiperparâmetros

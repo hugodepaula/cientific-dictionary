@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2007">
+  <version value="1.0.0"/>
+  <identifier value="org.scientificdictionary.extension"/>
+  <display-name>
+    <name lang="en-US">Scientific and AI Dictionary</name>
+    <name lang="pt-BR">Dicionário Científico e de IA</name>
+  </display-name>
+  <platform value="all"/>
+  <dependencies>
+    <OpenOffice.org-minimal-version value="4.0" d:name="OpenOffice.org 4.0"/>
+  </dependencies>
+  <registration>
+    <simple-license accept-by="admin" default-accept="true">
+      <license-text lang="en-US">
+        <p>This extension adds scientific and artificial intelligence terminology to the standard pt-BR and en-US dictionaries in LibreOffice.</p>
+        <p>No need to change your document language to Latin anymore. Technical terms will be recognized while maintaining proper grammar checking for Portuguese (Brazil) and English (US).</p>
+      </license-text>
+      <license-text lang="pt-BR">
+        <p>Esta extensão adiciona terminologia científica e de inteligência artificial aos dicionários padrão pt-BR e en-US no LibreOffice.</p>
+        <p>Não é mais necessário alterar o idioma do documento para Latim. Termos técnicos serão reconhecidos enquanto mantém a verificação gramatical adequada para Português (Brasil) e Inglês (EUA).</p>
+      </license-text>
+    </simple-license>
+  </registration>
+  <extension-manager>
+    <menu>
+      <menu-item menu:id="tools">
+        <label lang="en-US">Scientific Dictionary Settings</label>
+        <label lang="pt-BR">Configurações do Dicionário Científico</label>
+      </menu-item>
+    </menu>
+  </extension-manager>
+  <release-notes>
+    <release xmlns="http://docs.oasis-open.org/ns/office/1.2/meta/pkg" xlink:href="RELEASE_NOTES.md" xlink:type="simple"/>
+  </release-notes>
+</description>
