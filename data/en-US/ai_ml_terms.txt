@@ -1,0 +1,76 @@
+artificial intelligence
+machine learning
+deep learning
+neural network
+backpropagation
+dataset
+datasets
+embedding
+embeddings
+epoch
+epochs
+fine-tuning
+fine-tune
+hallucination
+hallucinations
+inference
+token
+tokens
+tokenization
+tokenize
+transformer
+transformers
+overfitting
+underfitting
+bias
+biases
+prompt
+prompts
+llm
+llms
+large language model
+weights
+dropout
+batch
+minibatch
+stochastic
+gradient
+descent
+optimizer
+adam
+sgd
+backend
+frontend
+pipeline
+pipelines
+deploy
+deployment
+latency
+throughput
+api
+apis
+webhook
+webhooks
+json
+yaml
+vector
+vectors
+vectorization
+rag
+retrieval
+augmentation
+generation
+chain
+chains
+agent
+agents
+autonomous
+fine-tuned
+pretrained
+zero-shot
+few-shot
+chain-of-thought
+logits
+ablation
+latent space
+hyperparameters
